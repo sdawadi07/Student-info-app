@@ -1,10 +1,10 @@
-public class studentInfo {
+public class StudentInfo {
 
     private String name;
     private int age;
     private double grade;
 
-    public studentInfo(String name, int age, double grade) {
+    public StudentInfo(String name, int age, double grade) {
         this.name = name;
         this.age = age;
         this.grade = grade;
